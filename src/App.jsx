@@ -10,6 +10,7 @@ function App() {
     <>
       <h1>hello</h1>
       <h1>update</h1>
+      <button>click</button>
     </>
   )
 }
